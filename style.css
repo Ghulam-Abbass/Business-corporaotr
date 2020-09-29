@@ -1,0 +1,1056 @@
+@import url('https://fonts.googleapis.com/css?family=poppins:100,200,300,400,500,600,700,800,900');
+*
+{
+	margin: 0;
+	padding: 0;
+	font-family: 'Poppins', sans-serif;
+}
+
+.head
+{
+	background: #000;
+	color: #ffffffd1;
+	padding-bottom: 5px;
+}
+
+.head p
+{
+	margin-top: 18px;
+	font-size: 1.05em;
+	cursor: pointer;
+}
+
+p i
+{
+	font-size: 1.05em;
+	letter-spacing: 2px;
+	cursor: pointer;
+}
+
+.col-md-2 p i
+{
+	letter-spacing: 15px;
+	cursor: pointer;
+}
+
+/*Head End*/
+
+
+.container a
+{
+	color: #000;
+}
+
+.container a h2
+{
+	font-family: sans-serif;
+	font-size: 2.5em;
+    font-weight: 800;
+    letter-spacing: -2px;
+    margin-top: 5px;
+}
+
+ul li a
+{
+	margin-top: 25px;
+	font-family: sans-serif;
+	font-weight: 600;
+}
+
+/*End Navigation Bar*/
+
+#experts 
+{
+	background: linear-gradient(to left, #000,#3248eab0,#000);
+	padding-top: 380px;
+	padding-bottom: 10px;
+}
+
+#experts h1
+{
+	color: #fff;
+	text-decoration: underline;
+    margin-top: -280px;
+    margin-left: 80px;
+    font-size: 3em;
+}
+
+#experts h1 span
+{
+	font-weight: 600;
+}
+
+#experts p
+{
+	margin-left: 120px;
+	color: #fff;
+}
+
+#experts .btn
+{
+	margin-left: 120px;
+	margin-top: 20px;
+	font-weight: bold;
+	padding: 10px;
+	padding-left: 25px;
+	padding-right: 25px;
+	border-radius: inherit;
+}
+
+#experts .btn:focus
+{
+	outline: none;
+}
+
+
+#experts .icons
+{
+	margin-top: -60px;
+}
+
+#experts #icons
+{
+	border: 1px solid #394bcc66;
+    padding: 6px;
+    background: #394bcc66;
+    margin-top: -40px;
+    cursor: pointer;
+    color: #fff;
+}
+
+#experts #icon
+{
+	border: 1px solid #394bcc66;
+    padding: 6px;
+    background: #394bcc66;
+    margin-top: -40px;
+    margin-left: 1320px;
+    cursor: pointer;
+    color: #fff;
+}
+
+/*End Name Section*/
+
+.container .our
+{
+	text-align: center;
+	padding-top: 30px;
+	text-decoration: underline;
+	font-weight: 600;
+	margin-bottom: 20px;
+}
+
+.container .boze
+{
+	width: 360px;
+	height: 220px;
+	margin-top: 20px;
+}
+
+.container .bozer
+{
+	width: 360px;
+	height: 220px;
+	margin-top: 20px;
+}
+
+.container .bozei
+{
+	width: 361px;
+	height: 220px;
+	margin-top: 20px;
+}
+
+.container .box
+{
+	background: #051027;
+	padding: 10px;
+	margin-bottom: 40px;
+	color: #fff;
+	border: 1px solid #000;
+}
+
+.container .box .br
+{
+	margin-left: 10px;
+}
+
+.container .box .rb
+{
+	margin-left: 10px;
+}
+
+/*End Our Services*/
+
+#nice
+{
+	background: #eee;
+	padding: 30px;
+	margin-bottom: 0px;
+	padding-bottom: 60px;
+	margin-top: 30px;
+}
+
+#nice .oure
+{
+	text-align: center;
+	padding-top: 15px;
+	text-decoration: underline;
+	font-weight: 600;
+}
+
+#nice .for
+{
+	font-size: 15px;
+	font-weight: 600;
+}
+
+#nice .for i
+{
+	font-size: 2em;
+	padding-top: 20px;
+	color: #2d99a5;
+}
+
+#nice .shope
+{
+	color: #000;
+	margin-left: 10px;
+}
+
+/*End Choose Us*/
+
+
+.treet
+{
+	background: #0c3346;
+	padding-bottom: 40px;
+}
+
+.call
+{
+	color: #fff;
+	padding-top: 35px;
+	text-decoration: underline;
+	font-weight: 600;
+	font-family: system-ui;
+}
+
+.sit
+{
+	color: #e8e8e8;
+	font-size: 0.8em;
+	padding-top: 10px;
+}
+
+#exampleInputName3
+{
+	margin-top: 60px;
+	border-radius: inherit;
+}
+
+#exampleInputName4
+{
+	border-radius: inherit;
+}
+
+#exampleInputName5
+{
+	border-radius: inherit;
+	margin-top: 60px;
+}
+
+.subm
+{
+	background: #03a9f4;
+	border: 1px solid #03a9f4;
+	color: #fff;
+	margin-top: 0;
+	outline: none;
+	padding-top: 5px;
+	padding-bottom: 7px;
+	padding-right: 35px;
+	padding-left: 35px;
+}
+
+.btne:focus
+{
+	outline: none;
+}
+
+/*End Call Section*/
+
+
+#content
+{
+	background: #000;
+	padding: 70px;
+}
+
+.box1
+{
+	border: 1px solid #eee;
+	width: 600px;
+	height: 205px;
+	padding-left: 20px;
+	display: flex;
+	flex-direction: column;
+	margin-left: 300px;
+	background: #eee;
+}
+
+.box1 .help
+{
+	color: #000;
+	text-align: center;
+	margin-top: 30px;
+	margin-right: 130px;
+	font-size: 1.2em;
+}
+
+.box1 span
+{
+	font-size: 2em;
+	color: #50c2d4;
+}
+
+.manager
+{
+	margin-left: 155px;
+	margin-top: 20px;
+	color: #0000009c;
+}
+
+/*Box Section End*/
+
+.react
+{
+	width: 263px;
+	height: 250px;
+	padding-top: 40px;
+}
+
+/*Our Services End*/
+
+.contact
+{
+	background: #29b1bf;
+	padding-bottom: 50px;
+}
+
+.graph
+{
+	align-items: center;
+	text-align: center;
+	margin-top: 20px;
+	padding-top: 60px;
+}
+
+.lorem
+{
+	font-size: 1.3em;
+	color: #fff;
+}
+
+/*Contact Box*/
+
+.foot
+{
+	background: #000;
+}
+
+.core
+{
+	font-size: 2.4em;
+	font-weight: 600;
+	letter-spacing: -1px;
+	color: #fff;
+	padding-top: 30px;
+}
+
+.dolordi
+{
+	float: left;
+	margin-right: 20px;
+	margin-left: -8px;
+}
+
+.extra
+{
+	color: #fff;
+	font-weight: bold;
+	font-size: 1.2em;
+	padding-top: 40px;
+	padding-left: 15px;
+}
+
+.extra .hom li
+{
+	text-decoration: none;
+	display: inline-block;
+}
+
+.ilastico
+{
+	cursor: pointer;
+	padding-bottom: 50px;
+	margin-right: 165px;
+}
+
+.ilasticoy
+{
+	cursor: pointer;
+	padding-bottom: 50px;
+	margin-right: 165px;
+}
+.need
+{
+	padding-top: 85px;
+	font-size: 1.05em;
+}
+
+.need i
+{
+	color: #d0c3c3;
+	font-size: 1.2em;
+}
+
+.need span
+{
+	color: #d0c3c3;
+}
+
+.designri
+{
+	margin-top: 20px;
+	margin-left: -140px;
+}
+
+
+/*Start our Services Section*/
+
+#expert
+{
+	background: linear-gradient(to left, #000,#3248eab0,#000);
+	padding-top: 50px;
+}
+
+#expert .expe
+{
+	padding-bottom: 20px;
+    margin-left: 111px;
+    margin-top: -40px;
+    color: #fff;
+}
+
+#expert .expe h2
+{
+	font-weight: 600;
+}
+
+/*End Exprts Section*/
+
+.breadcrumb
+{
+	background: #fff;
+	margin-top: 30px;
+}
+
+
+.container .imh
+{
+	width: 350px;
+	padding-top: 50px;
+}
+
+.container .sale
+{
+	font-size: 1.8em;
+	font-weight: bold;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.container .paira
+{
+	color: #8e8686;
+	font-size: 1em;
+}
+
+.container .mor
+{
+	margin-top: 25px;
+	font-size: 1.1em;
+	color: #17b6da;
+	font-weight: bold;
+	cursor: pointer;
+}
+
+/**/
+
+.lorm
+{
+	font-size: 1.5em;
+	color: #fff;
+	margin-right: 40px;
+	font-weight: bold;
+	margin-top: -10px;
+	margin-bottom: -10px;
+}
+
+.lorm .get
+{
+	color: gray;
+	margin-left: 200px;
+	border: 2px solid #fff;
+	background: #29b1bf;
+	color: #fff;
+	font-size: 15px;
+	font-weight: bold;
+	padding: 10px 20px 10px 20px;
+}
+
+.searchbtn {
+    position: absolute;
+    width: 45px;
+    height: 44px;
+    border: 1px solid #29b1bf;
+    background-color: #29b1bf;
+    text-align: center;
+    color: #fff;
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: 300;
+    margin-top: 10px;
+}
+
+.searchterm {
+    width: 220px;
+    position: relative;
+    padding: 10px;
+    border: 2px solid #e6e0e0;
+    outline: none;
+    font-family: system-ui;
+    background-color: #e6e0e0;
+    margin-top: 10px;
+    margin-left: 15px;
+}
+
+/*End Container*/
+
+.bot
+{
+	background: #000000d6;
+}
+
+.dole
+{
+	color: gray;
+}
+
+.ilastic
+{
+	color: gray;
+}
+
+.extr
+{
+	color: #fff;
+    font-weight: bold;
+    font-size: 1.2em;
+    padding-top: 40px;
+    padding-left: 3px;
+}
+
+.dole i
+{
+	color: #29b1bf;
+}
+
+.face i
+{
+	color: gray;
+	padding-top: 10px;
+	margin-left: 13px;
+	padding-bottom: 40px;
+}
+
+/*End Section*/
+
+footer
+{
+	background: #000000e8;
+	padding-bottom: 20px;
+}
+
+footer p
+{
+	text-align: center;
+	padding-top: 25px;
+	color: gray;
+}
+
+/*End Footer*/
+
+.jumbo
+{
+	width: 100%;
+	height: 450px;
+	padding-top: 50px;
+	padding-bottom: 20px;
+}
+
+.coach
+{
+	padding-top: 60px;
+	color: #29b1bf;
+	font-weight: bold;
+	cursor: pointer;
+}
+
+.ing
+{
+	font-weight: bold;
+	padding-top: 15px;
+	cursor: pointer;
+}
+
+.ox
+{
+	background-color: #eee;
+	padding: 50px 50px 50px 50px;
+	margin-top: 70px;
+	width: 290px;
+	height: 240px
+}
+
+.ox p
+{
+	font-weight: bold;
+}
+
+.ox p span
+{
+	font-size: 2em;
+	color: #29b1bf;
+}
+
+.ox h6
+{
+	margin-top: 20px;
+	color: gray;
+	font-weight: 600;
+}
+
+/*End Services Details*/
+
+.oxe
+{
+	background-color: #000000d9;
+	padding: 50px 20px 50px 20px;
+	margin-top: 50px;
+	width: 290px;
+	height: 220px
+}
+
+.oxe p
+{
+	font-weight: bold;
+	text-align: center;
+	margin-top: 35px;
+	color: #29b1bf;
+}
+
+.coac
+{
+	text-decoration: underline;
+	font-weight: bold;
+	font-size: 1.5em;
+	padding-top: 40px;
+}
+
+.inge
+{
+	padding-top: 15px;
+	font-size: 1em;
+	cursor: pointer;
+	font-weight: bold;
+	color: gray;
+}
+
+.febul
+{
+	color: gray;
+	padding-top: 10px;
+	cursor: pointer;
+	font-weight: bold;
+	font-size: 1em;
+	padding-bottom: 10px;
+}
+
+.fulbus
+{
+	padding-top: 20px;
+	color: gray;
+	font-weight: bold;
+}
+
+.finance
+{
+	font-size: 1.8em;
+	font-weight: bold;
+}
+
+.tag
+{
+	font-weight: bold;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+
+/*End Blog-list Section*/
+
+.tig
+{
+	font-size: 17px;
+	font-weight: bold;
+	padding-top: 10px;
+}
+
+.tig span
+{
+	color: gray;
+}
+
+.icoen
+{
+	padding-top: 2px;
+}
+
+.shre
+{
+	font-size: 17px;
+	font-weight: bold;
+	margin-left: 130px;
+}
+
+#fae
+{
+	padding: 0 6px 0 6px;
+}
+
+.perv
+{
+	font-weight: bold;
+	font-size: 1.2em;
+	color: gray;
+}
+
+.vative
+{
+	font-size: 1.2em;
+	padding-top: 5px;
+	font-weight: bold;
+	color: #655a5a;
+}
+
+.nexwe
+{
+	margin-left: 270px;
+	font-weight: bold;
+	font-size: 1.2em;
+	color: gray;
+}
+
+.ino
+{
+	float: left;
+	font-size: 1.2em;
+	padding-top: 5px;
+	font-weight: bold;
+	color: #655a5a;
+	margin-left: 35px;
+}
+
+.jumboe .breadcrumb {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 75px;
+    margin-bottom: 20px;
+    list-style: none;
+    background-color: #8080803b;
+    border-radius: inherit;
+}
+ 
+.jumboe .breadcrumb li
+{
+	font-size: 1.1em;
+	font-weight: 600;
+}
+
+.jumboe .breadcrumb li span
+{
+	color: gray;
+}
+
+.cumb .breadcrumb {
+    padding: 31px 63px;
+    margin-bottom: 20px;
+    list-style: none;
+    background-color: #29b1bf;
+    border-radius: inherit;
+}
+
+.reply
+{
+	font-size: 1.5em;
+	text-transform: uppercase;
+	font-weight: bold;
+	margin-left: 15px;
+	padding-top: 40px;
+}
+
+.must
+{
+	color: gray;
+	margin-left: 15px;
+	padding-top: 10px;
+	margin-bottom: 20px;
+}
+
+#exampleInputName2
+{
+	margin-left: 15px;
+	width: 320px;
+	height: 50px;
+	margin-top: 10px;
+	border-radius: 4px;
+	background: #80808033;
+	font-weight: bold;
+	font-size: 1.1em;
+	color: gray;
+}
+
+
+#exampleInputEmail2
+{
+	margin-left: 15px;
+	width: 320px;
+	height: 50px;
+	margin-top: 144px;
+	border-radius: 4px;
+	background: #80808033;
+	font-weight: bold;
+	font-size: 1.1em;
+	color: gray;
+}
+
+#testi
+{
+	background: #80808033;
+	margin-left: 15px;
+	width: 715px;
+	resize: none;
+	font-weight: bold;
+	font-size: 1.1em;
+	color: gray;
+}
+
+.bottoe
+{
+	margin-left: 15px;
+	margin-top: 10px;
+	padding: 15px 30px;
+	border-radius: inherit;
+	background: #29b1bf;
+	border: 1px solid #29b1bf;
+	color: #fff;
+	cursor: pointer;
+}
+
+.bottoe:focus
+{
+	outline: none;
+}
+
+.commit
+{
+	margin-left: 15px;
+	margin-top: 40px;
+	font-weight: 600;
+	font-size: 1.3em;
+}
+
+.pman
+{
+	width: 40px;
+	margin-left: 15px;
+	margin-top: 10px;
+}
+
+.pman p
+{
+	margin-left: 50px;
+}
+
+.amet
+{
+	margin-left: 40px;
+}
+
+.reple
+{
+	margin-left: 80px;
+	font-weight: bold;
+	color: gray;
+	font-size: 1.2em;
+	cursor: pointer;
+}
+
+.reple span
+{
+	color: #2d99a5;
+}
+
+/*End Blog Details Section*/
+
+
+.perar
+{
+	margin-top: 80px;
+	font-size: 2em;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+#aboute
+{
+	background: #f5f5f5;
+	margin-bottom: 40px;
+	padding-bottom: 25px;
+}
+
+/*End Aout Us Section*/
+
+.kind
+{
+	margin-top: 40px;
+	font-size: 1em;
+	color: gray;
+}
+
+
+#round
+{
+	border: 0.8px solid #e7e7ec;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	margin: 20px 1px 20px 1px;
+}
+
+.nine
+{
+	padding-top: 10px;
+	font-size: 1.4em;
+	margin-left: 10px;
+	font-weight: bold;
+}
+
+
+.nine i
+{
+	color: #2d99a5;
+}
+
+.ten
+{
+	padding-top: 4px;
+	font-weight: bold;
+	font-size: 1.2em;
+	margin-left: 10px;
+}
+
+.ten i
+{
+	color: #2d99a5;
+}
+
+#exampleInputName1
+{
+	width: 500px;
+	height: 40px;
+	border-radius: inherit;
+	background: #f5f5f5;
+	border: 1px solid #f5f5f5;
+	border-top: none;
+}
+
+#exampleInputEmail1
+{
+	width: 500px;
+	height: 40px;
+	border-radius: inherit;
+	background: #f5f5f5;
+	border: 1px solid #f5f5f5;
+	border-top: none;
+}
+
+#exampleInputPhone1
+{
+	width: 500px;
+	height: 40px;
+	border-radius: inherit;
+	background: #f5f5f5;
+	border: 1px solid #f5f5f5;
+	border-top: none;
+}
+
+
+#testie
+{
+	width: 500px;
+	height: 215px;
+	border-radius: inherit;
+	background: #f5f5f5;
+	border: 1px solid #f5f5f5;
+	border-top: none;
+	resize: none;
+}
+
+.eleven
+{
+	font-weight: bold;
+	font-size: 1.3em;
+	margin-top: 5px;
+	padding-bottom: 15px;
+}
+
+
+
+@media(max-width: 302px){
+	.react {
+		width: 272px;
+	}
+	.core
+	{
+		margin-left: 55px;
+	}
+	.extra
+	{
+		margin-left: 20px;
+	}
+	.dolordi
+	{
+		margin-left: 20px;
+		text-align: center; 
+	}
+	.ilasticoy
+	{
+		margin-left: 150px;
+	    margin-top: -265px;
+	}
+	.container .bozei
+	{
+		width: 505px;
+	}
+}
